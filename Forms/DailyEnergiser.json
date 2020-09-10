@@ -1,6 +1,9 @@
 {
 	"format": {
-		"style": "default"
+		"style": "default",
+		"title": "Energise.me Daily Energiser",
+		"subtitle": "Let's see how you are doing by filling out this quick survey",
+		"endMessage": "",
 	},
 	"questions": {
 		"1": {
