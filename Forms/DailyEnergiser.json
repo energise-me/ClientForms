@@ -21,7 +21,7 @@
 		"3": {
 			"type": "rating",
 			"name": "stress_rating",
-			"title": "On a scale of 1-10, how stressed do you feel (Higher == more stressed)",
+			"title": "On a scale of 1-10, how stressed do you feel? (Higher == more stressed)",
 			"scale": 10
 		},
 		"4": {
