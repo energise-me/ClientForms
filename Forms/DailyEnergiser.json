@@ -1,31 +1,31 @@
 {
-	"format": [
+	"format": {
 		"style": "default"
-	],
-	"questions": [
-		"1": [
+	},
+	"questions": {
+		"1": {
 			"type": "rating",
 			"title": "On a scale of 1-10, how energised do you feel?",
 			"scale": 10
-		],
-		"2": [
+		},
+		"2": {
 			"type": "rating",
 			"title": "On a scale of 1-10, how do you rate your health in general?",
 			"scale": 10
-		],
-		"3": [
+		},
+		"3": {
 			"type": "rating",
 			"title": "On a scale of 1-10, how stressed do you feel (Higher == more stressed)",
 			"scale": 10
-		],
-		"4": [
+		},
+		"4": {
 			"type": "rating",
 			"title": "On a scale of 1-10, how productive do you feel?",
 			"scale": 10
-		],
-		"5": [
+		},
+		"5": {
 			"type": "text-long",
 			"title": "Let us know anything that you feel affected your scores"
-		]
-	]
+		}
+	}
 }
