@@ -8,7 +8,7 @@
 	},
 	"questions": {
 		"1": {
-			"type": "multi-choice",
+			"type": "option",
 			"name": "test123",
 			"title": "Please select as many as u like",
 			"options": {
