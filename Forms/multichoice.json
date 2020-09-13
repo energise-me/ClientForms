@@ -52,6 +52,11 @@
 			"name": "email_test",
 			"title": "Please type email"
 		},
+		"8": {
+			"type": "date",
+			"name": "date_test",
+			"title": "Please select a date"
+		},
 		"7": {
 			"type": "number",
 			"name": "number_test",
