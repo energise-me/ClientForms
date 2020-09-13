@@ -1,0 +1,23 @@
+{
+	"format": {
+		"style": "default",
+		"title": "Energise.me Testing form",
+		"subtitle": "Testing for Supports work",
+		"endMessage": "Thanks for taking the survey",
+		"database": ""
+	},
+	"questions": {
+		"1": {
+			"type": "multi-choice",
+			"name": "test123",
+			"title": "Please select as many as u like",
+			"options": {
+				"1": "Option 1",
+				"2": "Option 2",
+				"3": "Option 3",
+				"4": "Option 4",
+				"5": "Option 5"
+			}
+		}
+	}
+}
