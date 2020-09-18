@@ -1,0 +1,26 @@
+		"6": {
+			"type": "text-long",
+			"name": "join_reason",
+			"title": "What is your reason for joining?"
+		},
+		"7": {
+			"type": "text-long",
+			"name": "goals",
+			"title": "What are your goals for energy coaching, what do you want to be able to or do more of that you didn't do before? What do you want to stop doing?"
+		},
+		"8": {
+			"type": "text-long",
+			"name": "family_sitch",
+			"title": "Tell us a little about your family situation, partners, children, parents you may care for, anything you think will be relevant."
+		},
+		"11": {
+			"type": "text-long",
+			"name": "friend_ntwrk",
+			"title": "Tell us about your friend network, do you have lots of friends or a little. Are they strong bonds or loose ones. Do you have a best friend you can rely on?"
+		},
+		"12": {
+			"type": "text-long",
+			"name": "about_wrk",
+			"title": "Tell us about your work. What do you love about it? What are the stresses and strains? How well do you get on with the tribes at work? What's the culture like? Do you look forward to going to work?"
+		},
+		

@@ -1,0 +1,101 @@
+{
+	"format": {
+		"style": "default",
+		"title": "Energise.me Initial Questions",
+		"subtitle": "Let's us collect a few things about you.",
+		"endMessage": "Thanks for taking the survey",
+		"database": "initialquestions"
+	},
+	"questions": {
+		"1": {
+			"type": "option",
+			"name": "JobPos",
+			"title": "What best describes your position?",
+			"options": {
+				"1": "Director / Partner / Trustee",
+				"2": "Senior Manager",
+				"3": "Middle Manager",
+				"4": "Junior Manager / Supervisor",
+				"5": "Not in a Management Position"
+			}
+		},
+		"2": {
+			"type": "text",
+			"name": "location",
+			"title": "Where do you live?"
+		},
+		"3": {
+			"type": "date",
+			"name": "DOB",
+			"title": "What is your date of birth?"
+		},
+		"4": {
+			"type": "option",
+			"name": "sex",
+			"title": "What sex do you identify as?",
+			"options": {
+				"1": "Male",
+				"2": "Female",
+				"3": "Other"
+			}
+		},
+		"16": {
+			"type": "option",
+			"name": "faith",
+			"title": "Are you a practicing member of any faith or religion?",
+			"options": {
+				"1": "Yes",
+				"2": "No",
+				"3": "Rather not say"
+			}
+		},
+		"5": {
+			"type": "option",
+			"name": "org_type",
+			"title": "What best describes your organization?",
+			"options": {
+				"1": "For Profit",
+				"2": "Third Sector",
+				"3": "Social Enterprise",
+				"4": "Public Sector"
+			}
+		},
+		"9": {
+			"type": "option",
+			"name": "medical_conds_q",
+			"title": "Do you have any medical conditions that you wish to make us aware of that might affect the way we need to coach you?",
+			"options": {
+				"1": "Yes (Please specify)",
+				"2": "No"
+			}
+		},
+		"10": {
+			"type": "text-long",
+			"name": "medical_conds_detail",
+			"title": "Please provide details of any known medical conditions here:"
+		},
+		"13": {
+			"type": "option",
+			"name": "dta_consent",
+			"title": "Consent and data privacy. In order for us to work with you to improve your energy, we will need to store data about your health and energy. This could include data from your fitness trackers and health apps, your own scores from our surveys and data collection, as well as the personal details collected in this form. We will also hold a record of any conversations and posts you have with any other party via our platform. These may be archived from time to time. Please give your express consent for us to hold all of this data. We will never share your data without your express permission. We will compare your data to other users data analytics for the purposes of comparison and may publish these results, but they will never include your personal details, just the data trends across the groups and categories. We will share your data with our research partner, The University of East Anglia however, this will be anonymised before it is shared. You have the right to be forgotten from our systems should you decide to leave us.  You also have the option to be anonymised in the platform itself if you so wish, please let Customer Services know via the messaging section in the platform if you wish to do this. ",
+			"options": {
+				"1": "I give you my consent to collect and hold all of the above data",
+				"2": "I do not give consent to hold my data (Note without this we will not be able to work with you)"
+			}
+		},
+		"14": {
+			"type": "option",
+			"name": "med_disclaimer",
+			"title": "Medical disclaimer. Whilst our aim is to help you optimise your potential by maximising your energy and minimising your stress, we cannot guarantee this. Our coaching is proven to help with this in most cases, but it does rely on you as the client fully engaging in the process and making the changes to your lifestyle and behaviours. We are also not medically qualified so you must be satisfied that any advice we give will not be detrimental to your health in any way. If you ever feel unwell, be it related to our coaching or otherwise, you should always seek the advice of a suitably qualified medical professional. We accept no liability for any medical issues arising directly or indirectly from our coaching. Having said that our advice is based on common sense, proven wellbeing and energy management practices so we have no reason to believe that any of our interventions are likely to cause any harm.  ",
+			"options": {
+				"1": "I accept the above medical disclaimer",
+				"2": "I do not accept the above disclaimer (Note without this we will not be able to work with you)"
+			}
+		},
+		"15": {
+			"type": "text-long",
+			"name": "form_feedback",
+			"title": "Is there anything about this form you want to give us feedback on? Anything you didn't understand, anything you would add, anything you think should not be on here? "
+		},
+	}
+}
