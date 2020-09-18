@@ -96,6 +96,6 @@
 			"type": "text-long",
 			"name": "form_feedback",
 			"title": "Is there anything about this form you want to give us feedback on? Anything you didn't understand, anything you would add, anything you think should not be on here? "
-		},
+		}
 	}
 }
