@@ -1,0 +1,36 @@
+{
+	"format": {
+		"style": "default",
+		"title": "Energise.me Sectional Feedback",
+		"subtitle": "Provide feedback about your surrent section.",
+		"endMessage": "Thanks for taking the survey",
+		"database": "sectional_feedback"
+	},
+	"questions": {
+		"1": {
+			"type": "rating",
+			"name": "sectionRating",
+			"title": "What do you think of this section?",
+			"scale": 10
+		},
+		"2": {
+			"type": "text-long",
+			"name": "ratingReason",
+			"title": "Why did you give this rating?"
+		},
+		"3": {
+			"type": "text-long",
+			"name": "extraComments",
+			"title": "Is there anything else you wish to comment on?"
+		},
+		"4": {
+			"type": "option",
+			"name": "annonymise",
+			"title": "Submit this form annonymously?",
+			"options": {
+				"1": "Yes",
+				"2": "No"
+			}
+		}
+	}
+}
