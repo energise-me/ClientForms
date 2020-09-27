@@ -1,0 +1,28 @@
+{
+	"format": {
+		"style": "default",
+		"title": "Energise.me Reflective Journal",
+		"subtitle": "",
+		"endMessage": "Thank you for filling out your journal.",
+		"database": "journalEntries"
+	},
+	"questions": {
+		"1": {
+			"type": "multi-text",
+			"name": "learnedThisWeek",
+			"title": "These are the three top things I learned this week:",
+			"boxes": 3
+		},
+		"2": {
+			"type": "text-long",
+			"name": "usedInPast",
+			"title": "I have been reminded of the following that I have successfully used in the past:"
+		},
+		"3": {
+			"type": "multi-text",
+			"name": "futureChanges",
+			"title": "As a result of this week, I am going to make the following specific changes in future:",
+			"boxes": 3
+		}
+	}
+}
