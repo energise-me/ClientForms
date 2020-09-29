@@ -2,7 +2,7 @@
 	"format": {
 		"style": "default",
 		"title": "Energise.me Initial Questions",
-		"subtitle": "Let's us collect a few things about you.",
+		"subtitle": "Let us collect a few things about you.",
 		"endMessage": "Thanks for taking the survey",
 		"database": "initialquestions"
 	},
