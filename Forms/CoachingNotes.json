@@ -1,0 +1,22 @@
+{
+	"format": {
+		"style": "default",
+		"title": "Energise.me Coaching Notes",
+		"subtitle": "",
+		"endMessage": "",
+		"database": "meetingnotes"
+	},
+	"questions": {
+		"1": {
+			"type": "text-long",
+			"name": "notes",
+			"title": "Notes"
+		},
+		"2": {
+			"type": "multi-text",
+			"name": "agreedTo",
+			"title": "Agreed to following:",
+			"boxes": 3
+		}
+	}
+}
