@@ -2,7 +2,7 @@
 	"format": {
 		"style": "default",
 		"title": "Energise.me Energy Barometer",
-		"subtitle": "Lets get your monthly scores!",
+		"subtitle": "Lets get your monthly scores! 1 is always the worst possible score and 10 is the best!",
 		"endMessage": "Thanks for taking the survey",
 		"database": "monthlydata"
 	},
