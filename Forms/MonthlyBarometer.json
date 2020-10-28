@@ -1,0 +1,214 @@
+{
+	"format": {
+		"style": "default",
+		"title": "Energise.me Energy Barometer",
+		"subtitle": "Lets get your monthly scores!",
+		"endMessage": "Thanks for taking the survey",
+		"database": "monthlydata"
+	},
+	"questions": {
+		"1": {
+			"type": "rating",
+			"name": "energised_rating",
+			"title": "On a scale of 1-10, how energised do you feel?",
+			"scale": 10
+		},
+		"2": {
+			"type": "rating",
+			"name": "health_rating",
+			"title": "On a scale of 1-10, how do you rate your health in general?",
+			"scale": 10
+		},
+		"3": {
+			"type": "rating",
+			"name": "effective_rating",
+			"title": "How do you rate your personal effectiveness?",
+			"scale": 10
+		},
+		"4": {
+			"type": "rating",
+			"name": "potential_rating",
+			"title": "Over the past month, have you been able to work at your full potential?",
+			"scale": 10
+		},
+		"5": {
+			"type": "rating",
+			"name": "solving_rating",
+			"title": "How resourceful are you at solving problems and overcoming tasks that initially look impossible?",
+			"scale": 10
+		},
+		"6": {
+			"type": "rating",
+			"name": "physically_fit_rating",
+			"title": "On a scale of 1-10, how physically fit would you consider yourself?",
+			"scale": 10
+		},
+		"7": {
+			"type": "rating",
+			"name": "fteen_minutes_amount",
+			"title": "On average, how often do you exercise for more than 15 minutes?",
+			"scale": 10
+		},
+		"8": {
+			"type": "rating",
+			"name": "weight_rating",
+			"title": "Do you consider yourself to be the right weight?",
+			"scale": 10
+		},
+		"9": {
+			"type": "rating",
+			"name": "eating_well",
+			"title": "On a scale of 1-10, how well do you think you eat?",
+			"scale": 10
+		},
+		"10": {
+			"type": "rating",
+			"name": "hydrated_rating",
+			"title": "On a scale of 1-10, how well do you stay hydrated?",
+			"scale": 10
+		},
+		"11": {
+			"type": "rating",
+			"name": "bad_stuff_rating",
+			"title": "On a scale of 1-10, what about the bad stuff? (Alcohol, ciggies and recreational drugs) Come on be honest now! Higher = Less",
+			"scale": 10
+		},
+		"12": {
+			"type": "rating",
+			"name": "sleep_rating",
+			"title": "On a scale of 1-10, how well do you sleep?",
+			"scale": 10
+		},
+		"13": {
+			"type": "rating",
+			"name": "sleep_length",
+			"title": "On average, how many hours sleep have you been getting a night?",
+			"scale": 10
+		},
+		"14": {
+			"type": "rating",
+			"name": "purpose_a_meaning",
+			"title": "Do you have a clear sense of purpose and meaning?",
+			"scale": 10
+		},
+		"15": {
+			"type": "rating",
+			"name": "life_satisfied",
+			"title": "Overall, how satisfied are you with your life nowadays?",
+			"scale": 10
+		},
+		"16": {
+			"type": "rating",
+			"name": "month_happyness",
+			"title": "How happy have you felt over the past month?",
+			"scale": 10
+		},
+		"17": {
+			"type": "rating",
+			"name": "things_worthwhile",
+			"title": "Over the past month, to what extent have you felt that the things you do in your life are worthwhile?",
+			"scale": 10
+		},
+		"18": {
+			"type": "rating",
+			"name": "financially_secure",
+			"title": "How financially secure do you feel?",
+			"scale": 10
+		},
+		"19": {
+			"type": "rating",
+			"name": "job_secure",
+			"title": "How secure do you feel in your job?",
+			"scale": 10
+		},
+		"20": {
+			"type": "rating",
+			"name": "present_focus",
+			"title": "Is your mind usually clear of distractions so that you can focus on being present in the moment? ",
+			"scale": 10
+		},
+		"21": {
+			"type": "rating",
+			"name": "anxious_rating",
+			"title": "How anxious have you felt over the last month?",
+			"scale": 10
+		},
+		"22": {
+			"type": "rating",
+			"name": "setbacks_overcome",
+			"title": "On a scale of 1-10, how well do you overcome setbacks and challenges?",
+			"scale": 10
+		},
+		"23": {
+			"type": "rating",
+			"name": "displaying_emotions",
+			"title": "On a scale of 1-10, how well do you control your negative emotions and feeling in front of others?",
+			"scale": 10
+		},
+		"24": {
+			"type": "rating",
+			"name": "emotions_personal_effect",
+			"title": "On a scale of 1-10, how much do you allow your negative emotions and feelings affect you as a person?",
+			"scale": 10
+		},
+		"25": {
+			"type": "rating",
+			"name": "tribe_nurture",
+			"title": "At work, on a scale of 1-10, how much do you nurture your tribe?",
+			"scale": 10
+		},
+		"26": {
+			"type": "rating",
+			"name": "tribe_greatness",
+			"title": "At work, on a scale of 1-10, how great is your tribe?",
+			"scale": 10
+		},
+		"27": {
+			"type": "rating",
+			"name": "home_tribe_nurture",
+			"title": "Now your home tribe, on a scale of 1-10, how much do you nurture your home tribe?",
+			"scale": 10
+		},
+		"28": {
+			"type": "rating",
+			"name": "knowledge_improvement_rating",
+			"title": "Over the past month, to what extent have you’ve gained new knowledge about how to improve your own health and wellbeing?",
+			"scale": 10
+		},
+		"29": {
+			"type": "rating",
+			"name": "knowledge_applied_rating",
+			"title": "Over the past month, to what extent have you applied your knowledge about how to improve your own health and wellbeing?",
+			"scale": 10
+		},
+		"30": {
+			"type": "rating",
+			"name": "approach_coach",
+			"title": "Over the past month, to what extent have you felt able to approach your energise.me coach for support?",
+			"scale": 10
+		},
+		"31": {
+			"type": "rating",
+			"name": "support_from_coach",
+			"title": "Over the past month, to what extent have you received support from your energise.me coach?",
+			"scale": 10
+		},
+		"31": {
+			"type": "rating",
+			"name": "approach_others",
+			"title": "Over the past month, to what extent have you felt able to approach your others in your energise.me peer-network for support?",
+			"scale": 10
+		},
+		"32": {
+			"type": "rating",
+			"name": "support_from_other",
+			"title": "Over the past week, to what extent have you received support from others in your energise.me peer-network?",
+			"scale": 10
+		},
+		"33": {
+			"type": "text-long",
+			"name": "form_feedback",
+			"title": "Let us know anything that you feel affected your scores"
+		}
+	}
+}
