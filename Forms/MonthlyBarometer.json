@@ -159,53 +159,59 @@
 		},
 		"26": {
 			"type": "rating",
-			"name": "tribe_greatness",
+			"name": "tride_greatness",
 			"title": "At work, on a scale of 1-10, how great is your tribe?",
 			"scale": 10
 		},
 		"27": {
 			"type": "rating",
 			"name": "home_tribe_nurture",
-			"title": "Now your home tribe, on a scale of 1-10, how much do you nurture your home tribe?",
+			"title": "Still with the home tribe, on a scale of 1-10, how great is your home tribe?",
 			"scale": 10
 		},
 		"28": {
+			"type": "rating",
+			"name": "home_tribe_greatness",
+			"title": "Now your home tribe, on a scale of 1-10, how much do you nurture your home tribe?",
+			"scale": 10
+		},
+		"29": {
 			"type": "rating",
 			"name": "knowledge_improvement_rating",
 			"title": "Over the past month, to what extent have you’ve gained new knowledge about how to improve your own health and wellbeing?",
 			"scale": 10
 		},
-		"29": {
+		"30": {
 			"type": "rating",
 			"name": "knowledge_applied_rating",
 			"title": "Over the past month, to what extent have you applied your knowledge about how to improve your own health and wellbeing?",
 			"scale": 10
 		},
-		"30": {
+		"31": {
 			"type": "rating",
 			"name": "approach_coach",
 			"title": "Over the past month, to what extent have you felt able to approach your energise.me coach for support?",
 			"scale": 10
 		},
-		"31": {
+		"32": {
 			"type": "rating",
 			"name": "support_from_coach",
 			"title": "Over the past month, to what extent have you received support from your energise.me coach?",
 			"scale": 10
 		},
-		"31": {
+		"33": {
 			"type": "rating",
 			"name": "approach_others",
 			"title": "Over the past month, to what extent have you felt able to approach your others in your energise.me peer-network for support?",
 			"scale": 10
 		},
-		"32": {
+		"34": {
 			"type": "rating",
-			"name": "support_from_other",
+			"name": "support_from_others",
 			"title": "Over the past week, to what extent have you received support from others in your energise.me peer-network?",
 			"scale": 10
 		},
-		"33": {
+		"35": {
 			"type": "text-long",
 			"name": "form_feedback",
 			"title": "Let us know anything that you feel affected your scores"
