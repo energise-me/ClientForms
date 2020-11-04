@@ -15,14 +15,14 @@
 		},
 		"2": {
 			"type": "rating",
-			"name": "health_rating",
-			"title": "On a scale of 1-10, how do you rate your health in general?",
+			"name": "stress_rating",
+			"title": "On a scale of 1-10, how stressed do you feel? (Lower == more stressed)",
 			"scale": 10
 		},
 		"3": {
 			"type": "rating",
-			"name": "effective_rating",
-			"title": "How do you rate your personal effectiveness?",
+			"name": "productive_rating",
+			"title": "How productive have you been feeling?",
 			"scale": 10
 		},
 		"4": {
