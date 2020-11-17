@@ -10,7 +10,7 @@
 		"1": {
 			"type": "option",
 			"name": "singleselecttest",
-			"title": "Please select as many as u like",
+			"title": "Please select one",
 			"options": {
 				"1": "Option 1",
 				"2": "Option 2",

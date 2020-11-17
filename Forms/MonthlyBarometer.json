@@ -46,14 +46,14 @@
 		"7": {
 			"type": "rating",
 			"name": "fteen_minutes_amount",
-			"title": "On average, how often do you exercise for more than 15 minutes?",
-			"scale": 10
+			"title": "On average, how often do you exercise for more than 15 minutes? (1 = Less than once a week, 5 = More than 6 times a week)",
+			"scale": 5
 		},
 		"8": {
 			"type": "rating",
 			"name": "weight_rating",
-			"title": "Do you consider yourself to be the right weight?",
-			"scale": 10
+			"title": "Do you consider yourself to be the right weight? (1 = Well Underweight, 5 = Very Overweight)",
+			"scale": 5
 		},
 		"9": {
 			"type": "rating",
@@ -91,24 +91,6 @@
 			"title": "Do you have a clear sense of purpose and meaning?",
 			"scale": 10
 		},
-		"15": {
-			"type": "rating",
-			"name": "life_satisfied",
-			"title": "Overall, how satisfied are you with your life nowadays?",
-			"scale": 10
-		},
-		"16": {
-			"type": "rating",
-			"name": "month_happyness",
-			"title": "How happy have you felt over the past month?",
-			"scale": 10
-		},
-		"17": {
-			"type": "rating",
-			"name": "things_worthwhile",
-			"title": "Over the past month, to what extent have you felt that the things you do in your life are worthwhile?",
-			"scale": 10
-		},
 		"18": {
 			"type": "rating",
 			"name": "financially_secure",
@@ -130,7 +112,7 @@
 		"21": {
 			"type": "rating",
 			"name": "anxious_rating",
-			"title": "How anxious have you felt over the last month?",
+			"title": "How anxious have you felt over the last month? (1 being Extremely Anxious)",
 			"scale": 10
 		},
 		"22": {
@@ -173,42 +155,6 @@
 			"type": "rating",
 			"name": "home_tribe_greatness",
 			"title": "Now your home tribe, on a scale of 1-10, how much do you nurture your home tribe?",
-			"scale": 10
-		},
-		"29": {
-			"type": "rating",
-			"name": "knowledge_improvement_rating",
-			"title": "Over the past month, to what extent have you’ve gained new knowledge about how to improve your own health and wellbeing?",
-			"scale": 10
-		},
-		"30": {
-			"type": "rating",
-			"name": "knowledge_applied_rating",
-			"title": "Over the past month, to what extent have you applied your knowledge about how to improve your own health and wellbeing?",
-			"scale": 10
-		},
-		"31": {
-			"type": "rating",
-			"name": "approach_coach",
-			"title": "Over the past month, to what extent have you felt able to approach your energise.me coach for support?",
-			"scale": 10
-		},
-		"32": {
-			"type": "rating",
-			"name": "support_from_coach",
-			"title": "Over the past month, to what extent have you received support from your energise.me coach?",
-			"scale": 10
-		},
-		"33": {
-			"type": "rating",
-			"name": "approach_others",
-			"title": "Over the past month, to what extent have you felt able to approach your others in your energise.me peer-network for support?",
-			"scale": 10
-		},
-		"34": {
-			"type": "rating",
-			"name": "support_from_others",
-			"title": "Over the past week, to what extent have you received support from others in your energise.me peer-network?",
 			"scale": 10
 		},
 		"35": {
