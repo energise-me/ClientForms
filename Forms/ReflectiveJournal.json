@@ -10,7 +10,7 @@
 		"1": {
 			"type": "multi-text",
 			"name": "learnedThisWeek",
-			"title": "These are the three top things I learned this week:",
+			"title": "These are the three top things I learned this week",
 			"boxes": 3
 		},
 		"2": {
@@ -21,7 +21,7 @@
 		"3": {
 			"type": "multi-text",
 			"name": "futureChanges",
-			"title": "As a result of this week, I am going to make the following specific changes in future:",
+			"title": "As a result of this week, I am going to make the following specific changes in future",
 			"boxes": 3
 		}
 	}
