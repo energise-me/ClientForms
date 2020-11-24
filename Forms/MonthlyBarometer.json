@@ -25,12 +25,6 @@
 			"title": "How productive have you been feeling?",
 			"scale": 10
 		},
-		"4": {
-			"type": "rating",
-			"name": "potential_rating",
-			"title": "Over the past month, have you been able to work at your full potential?",
-			"scale": 10
-		},
 		"5": {
 			"type": "rating",
 			"name": "solving_rating",
