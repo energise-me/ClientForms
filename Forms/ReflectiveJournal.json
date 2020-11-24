@@ -23,7 +23,7 @@
 			"name": "futureChanges",
 			"title": "As a result of this week, I am going to make the following specific changes in future",
 			"boxes": 3
-		}
+		},
 		"4": {
 			"type": "date",
 			"name": "goal_date",
