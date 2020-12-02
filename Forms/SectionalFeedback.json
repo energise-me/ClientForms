@@ -1,8 +1,8 @@
 {
 	"format": {
 		"style": "default",
-		"title": "Energise.me Sectional Feedback",
-		"subtitle": "Provide feedback about your surrent section.",
+		"title": "Feedback on this pack",
+		"subtitle": "Please help us improve this pack in the future by providing us some feedback",
 		"endMessage": "Thanks for taking the survey",
 		"database": "sectional_feedback"
 	},
@@ -10,7 +10,7 @@
 		"1": {
 			"type": "rating",
 			"name": "sectionRating",
-			"title": "What do you think of this section?",
+			"title": "What do you think of this pack?",
 			"scale": 10
 		},
 		"2": {
