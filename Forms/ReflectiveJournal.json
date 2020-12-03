@@ -24,11 +24,6 @@
 			"title": "As a result of this week, I am going to make the following specific changes in future",
 			"boxes": 3,
 			"attachDateTime": true
-		},
-		"4": {
-			"type": "date",
-			"name": "goal_date",
-			"title": "I would like to achieve these goals by"
 		}
 	}
 }
