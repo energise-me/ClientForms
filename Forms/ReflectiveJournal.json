@@ -11,8 +11,7 @@
 			"type": "multi-text",
 			"name": "learnedThisWeek",
 			"title": "These are the three top things I learned this week",
-			"boxes": 3,
-			"attachDateTime": true
+			"boxes": 3
 		},
 		"2": {
 			"type": "text-long",
