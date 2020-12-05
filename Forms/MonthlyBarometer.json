@@ -2,7 +2,7 @@
 	"format": {
 		"style": "default",
 		"title": "Energise.me Energy Barometer",
-		"subtitle": "Let's get your monthly scores! 1 is always the worst possible score and 10 is the best!",
+		"subtitle": "Let's see how you have progressed recently. 1 is always the worst possible score and 10 is the best!",
 		"endMessage": "Thanks for taking the survey",
 		"database": "monthlydata"
 	},
@@ -88,25 +88,25 @@
 		"18": {
 			"type": "rating",
 			"name": "financially_secure",
-			"title": "How financially secure do you feel?",
+			"title": "On a scale of 1-10, How financially secure do you feel?",
 			"scale": 10
 		},
 		"19": {
 			"type": "rating",
 			"name": "job_secure",
-			"title": "How secure do you feel in your job?",
+			"title": "On a scale of 1-10, How secure do you feel in your job?",
 			"scale": 10
 		},
 		"20": {
 			"type": "rating",
 			"name": "present_focus",
-			"title": "Is your mind usually clear of distractions so that you can focus on being present in the moment? ",
+			"title": "On a scale of 1-10, Is your mind usually clear of distractions so that you can focus on being present in the moment? ",
 			"scale": 10
 		},
 		"21": {
 			"type": "rating",
 			"name": "anxious_rating",
-			"title": "How anxious have you felt over the last month? (1 being Extremely Anxious)",
+			"title": "On a scale of 1-10, How anxious have you felt over the last month? (1 being Extremely Anxious)",
 			"scale": 10
 		},
 		"22": {

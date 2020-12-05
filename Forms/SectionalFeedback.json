@@ -10,7 +10,7 @@
 		"1": {
 			"type": "rating",
 			"name": "sectionRating",
-			"title": "What do you think of this pack?",
+			"title": "On a scale of of 1-10, how would you rate this pack",
 			"scale": 10
 		},
 		"2": {
