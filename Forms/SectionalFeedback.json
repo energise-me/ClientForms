@@ -26,7 +26,7 @@
 		"4": {
 			"type": "option",
 			"name": "annonymise",
-			"title": "Submit this form annonymously?",
+			"title": "Submit this form anonymously?",
 			"options": {
 				"1": "Yes",
 				"2": "No"
