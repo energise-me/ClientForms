@@ -2,7 +2,7 @@
 	"format": {
 		"style": "default",
 		"title": "Energise.me Coaching Information",
-		"subtitle": "Let's us collect a few things about you. This will allow us to be more informed in your 1 to 1 coaching sessions.",
+		"subtitle": "Let's us collect a few things about you. This will allow us to be more informed in your coaching sessions.",
 		"endMessage": "Thanks for taking the survey.",
 		"database": "initialquestionsUPDATE"
 	},

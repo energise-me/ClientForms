@@ -16,13 +16,13 @@
 		"2": {
 			"type": "rating",
 			"name": "stress_rating",
-			"title": "On a scale of 1-10, how stressed do you feel? (Lower == more stressed)",
+			"title": "On a scale of 1-10, how stressed do you feel? (1 = Highly Stressed, 10 = not stressed at all)",
 			"scale": 10
 		},
 		"3": {
 			"type": "rating",
 			"name": "productive_rating",
-			"title": "How productive have you been feeling?",
+			"title": "On a Scale of 1-10, How productive have you been feeling?",
 			"scale": 10
 		},
 		"5": {
@@ -40,13 +40,13 @@
 		"7": {
 			"type": "rating",
 			"name": "fteen_minutes_amount",
-			"title": "On average, how often do you exercise for more than 15 minutes? (1 = Less than once a week, 5 = More than 6 times a week)",
+			"title": "On average, how often do you exercise for more than 15 minutes each week? (1 = Less than once, 2 = 1-2 times, 3= 3-4 times, 4 = 5-6 times, 5 = More than 6 times)",
 			"scale": 5
 		},
 		"8": {
 			"type": "rating",
 			"name": "weight_rating",
-			"title": "Do you consider yourself to be the right weight? (1 = Well Underweight, 5 = Very Overweight)",
+			"title": "Do you consider yourself to be the right weight? (1 = Well Underweight, 2 = A little under, 3 = about right, 4 = A little over, 5 = Very Overweight)",
 			"scale": 5
 		},
 		"9": {
@@ -64,7 +64,7 @@
 		"11": {
 			"type": "rating",
 			"name": "bad_stuff_rating",
-			"title": "On a scale of 1-10, what about the bad stuff? (Alcohol, ciggies and recreational drugs) Come on be honest now! Higher = Less",
+			"title": "On a scale of 1-10, what about the bad stuff? (Alcohol, ciggies and recreational drugs) Come on be honest now! 1 = Very Regular user, 10 = I don't touch the stuff",
 			"scale": 10
 		},
 		"12": {
@@ -106,7 +106,7 @@
 		"21": {
 			"type": "rating",
 			"name": "anxious_rating",
-			"title": "On a scale of 1-10, How anxious have you felt over the last month? (1 being Extremely Anxious)",
+			"title": "On a scale of 1-10, How anxious have you felt over the last month? (1 being Extremely Anxious, 10 being not anxious at all)",
 			"scale": 10
 		},
 		"22": {
@@ -118,13 +118,13 @@
 		"23": {
 			"type": "rating",
 			"name": "displaying_emotions",
-			"title": "On a scale of 1-10, how well do you control your negative emotions and feeling in front of others?",
+			"title": "On a scale of 1-10, how well do you control your negative emotions and feeling in front of others? (1 = I don't control them, 10 = I keep a really cool head)",
 			"scale": 10
 		},
 		"24": {
 			"type": "rating",
 			"name": "emotions_personal_effect",
-			"title": "On a scale of 1-10, how much do you allow your negative emotions and feelings affect you as a person?",
+			"title": "On a scale of 1-10, how much do you allow your negative emotions and feelings affect you as a person? (1 = I really let them affect me, 10 = they don't affect me at all)",
 			"scale": 10
 		},
 		"25": {
@@ -142,13 +142,13 @@
 		"27": {
 			"type": "rating",
 			"name": "home_tribe_nurture",
-			"title": "Still with the home tribe, on a scale of 1-10, how great is your home tribe?",
+			"title": "Now your home tribe, on a scale of 1-10, how much do you nurture your home tribe?",
 			"scale": 10
 		},
 		"28": {
 			"type": "rating",
 			"name": "home_tribe_greatness",
-			"title": "Now your home tribe, on a scale of 1-10, how much do you nurture your home tribe?",
+			"title": "Still with the home tribe, on a scale of 1-10, how great is your home tribe?",
 			"scale": 10
 		},
 		"35": {
